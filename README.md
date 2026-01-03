@@ -30,4 +30,4 @@ brew uninstall --cask querymind
 
 - [Website](https://app.querymind.dev)
 - [Documentation](https://app.querymind.dev/docs)
-- [Release Notes](https://releases.querymind.dev/latest-mac.yml)
+- [Release Notes](https://app.querymind.dev/docs/releases)
