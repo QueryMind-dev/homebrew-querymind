@@ -1,6 +1,6 @@
 cask "querymind" do
-  version "1.0.158"
-  sha256 "22af597e5156abbcef380b51f0f9895eb1dc6855458e3844ba3c490ac7a49d9d"
+  version "1.0.159"
+  sha256 "c961a845fbc2d88fb7ecfe322413fa05ac2fdce8f20d9569b20e6f20fa3ea159"
 
   url "https://releases.querymind.dev/v#{version}/QueryMind-#{version}-arm64.dmg"
   name "QueryMind"
